@@ -19,11 +19,11 @@ ServiceNow PDI, Service Catalog, Flow Designer
 4. Tested with Demo User
 
 ## Team Details
-- Team ID: [MSU131TechCrew]
-- Team Lead: [M.Dhanabalan]
-- College: [Merit Arts And Science College]
-- Department: [B.Sc.,Computer Science]
-- Project Mentor: Prof. [M.Saravanan]
+- Team ID: MSU131TechCrew
+- Team Lead: M.Dhanabalan
+- College: Merit Arts And Science College
+- Department: B.Sc.,Computer Science
+- Project Mentor: Prof. M.Saravanan
 
 ## Conclusion
 This automation reduces manual effort, improves approval transparency, and provides a centralized platform to track all laptop requests. The ServiceNow implementation enhances employee experience and helps the IT team to fulfill requests faster and more efficiently.
