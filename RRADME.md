@@ -20,7 +20,7 @@ ServiceNow PDI, Service Catalog, Flow Designer
 
 ## Team Details
 - Team ID: [MSU131TechCrew]
-- Team Lead: Dhanabalan M
+- Team Lead: [M.Dhanabalan]
 - College: [Merit Arts And Science College]
 - Department: [B.Sc.,Computer Science]
 - Project Mentor: Prof. [M.Saravanan]
