@@ -46,37 +46,6 @@ This removes manual task creation, reduces delays and human errors, and makes su
 ## Result
 After approval, a Catalog Task is created automatically with the short description `Laptop need to Configured` and is assigned to the **Hardware** group.
 
-## Screenshots
-
-### 1. Flow – Standard laptop task
-<!-- screenshots/01-flow.png -->
-
-
-![Flow](screenshots/01-flow.png)
-
-
-
-### 2. Process Engine tab (Standard Laptop item)
-
-
-![Process Engine](screenshots/02-process-engine.png)
-
-
-
-### 3. Approved request (REQ)
-
-
-![Approved Request](screenshots/03-approved-request.png)
-
-
-
-### 4. Catalog Task created (SCTASK)
-
-
-![Catalog Task](screenshots/04-catalog-task.png)
-
-## Team
-- Dhanabalan M (Team Lead)
 
 ## Conclusion
 The Standard Laptop Procurement Automation project shows how ServiceNow Flow Designer can streamline a common IT procurement process, reducing manual work and errors.
